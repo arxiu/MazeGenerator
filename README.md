@@ -9,4 +9,4 @@ Using only one file [MazeGenerator_OpenGL-Xcode/main.cpp](MazeGenerator_OpenGL-X
 
 ![](https://github.com/ballber/MazeGenerator_OpenGL-Xcode/blob/master/screenshot-maze_gen.png)
 
-![](Depth-First_Search_Animation.mp4)
+![](Depth-First_Search_Animation.mpg)
